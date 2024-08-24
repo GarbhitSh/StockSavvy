@@ -24,7 +24,7 @@
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/StockSavvy.git
+    git clone https://github.com/garbhitsh/StockSavvy.git
     cd StockSavvy
     ```
 
